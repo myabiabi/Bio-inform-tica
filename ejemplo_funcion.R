@@ -1,4 +1,4 @@
-#hay algo mal
+
 
 #Principio del tío Ben
 # ''poder'' de 10 personajes
