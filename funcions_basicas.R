@@ -32,7 +32,7 @@ if(m >= 0 & m <= 1 & d <= 22){
   }
   zodiaco(0, 22)
 
-####ESTA INCOMPLETO  
+####ESTA INCOMPLETO  hhh
 
 #Dec. 22  - Jan. 19  : Capricorn 
 Jan. 20  - Feb. 17  : Aquarius 
